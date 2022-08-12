@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/home"
+        android:title="Kegiatan"
+        android:icon="@drawable/ic_text"/>
+    <item android:id="@+id/profile"
+        android:title="Profil"
+        android:icon="@drawable/ic_person"/>
+    <item android:id="@+id/about"
+        android:title="Tentang"
+        android:icon="@drawable/ic_info"/>
+    <item android:id="@+id/logout"
+        android:title="logout"
+        android:icon="@drawable/ic_exit"/>
+
+</menu>
